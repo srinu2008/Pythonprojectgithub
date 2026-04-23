@@ -1,7 +1,6 @@
 SECTION-8
 # SAPAS - Smart Academics and Analytics System
 ### Team Details
-
 | Register Number | Team Member Name |
 | :--- | :--- |
 | 2500080204 | SELAM SRINIVASA REDDY |
