@@ -1,8 +1,8 @@
 students = [
-    {"name": "Alice", "math": 85, "eng": 90, "att": 95},
-    {"name": "Bob", "math": 92, "eng": 85, "att": 88},
-    {"name": "Charlie", "math": 78, "eng": 82, "att": 92},
-    {"name": "Diana", "math": 88, "eng": 91, "att": 96}
+    {"name": "SRINU", "math": 85, "eng": 90, "att": 95},
+    {"name": "BHARGAV", "math": 92, "eng": 85, "att": 88},
+    {"name": "SIDDARTH", "math": 78, "eng": 82, "att": 92},
+    {"name": "PREM", "math": 88, "eng": 91, "att": 96}
 ]
 
 total_math = 0
