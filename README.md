@@ -1,5 +1,5 @@
 SECTION-8
-# SAPAS - Smart Academics and Analytics System
+# SAPAS - Smart Academics Performances and Analytics System
 ### Team Details
 | Register Number | Team Member Name |
 | :--- | :--- |
